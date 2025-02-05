@@ -1,18 +1,22 @@
-## Getting Started
+# Ping Pong Game
+A simple 2-player Ping Pong game built using Java and Swing.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Features
+- Classic Ping Pong gameplay.
+- 2-player mode with keyboard controls.
+- Smooth animations and sound effects.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Installation & Running the Game
+1. Go to the [Releases](https://github.com/DeveshJha-00/PingPong/releases/tag/v1.0) page.
+2. Make sure you have Java installed. You can download it from [here](https://www.java.com/en/download/).
+3. Download the latest `PingPongGame.jar` file.
+4. Double-click the `.jar` file to start the game, or run it using:
+   ```sh
+   java -jar PingPongGame.jar
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## How to Play 
+- Player 1 controls : 
+W and S -> Move paddle up and down
+- Player 2 controls : 
+↑ (Up Arrow) and ↓ (Down Arrow) -> Move paddle up and down 
